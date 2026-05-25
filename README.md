@@ -1,1 +1,7 @@
-# Telco_Customers_Churn_Analysis
+This project analyzes customer churn in the telecom industry from a business perspective to identify the key factors affecting customer retention and revenue stability. Using Python-based exploratory data analysis, the study examined customer demographics, contract types, payment methods, internet services, billing patterns, and tenure to understand why customers discontinue telecom services.
+
+The analysis revealed that customers with month-to-month contracts, shorter service tenure, electronic check payment methods, and fiber optic internet services had significantly higher churn rates. In contrast, customers with long-term contracts and longer relationships with the company demonstrated greater loyalty and retention. These findings highlight the importance of customer engagement, service quality, and pricing strategies in reducing churn.
+
+From a business standpoint, the project provides actionable insights that can help telecom companies improve customer retention, reduce revenue loss, and increase customer lifetime value. Recommended strategies include promoting long-term contracts, enhancing onboarding experiences for new customers, improving service quality, introducing loyalty programs, and encouraging automated payment systems.
+
+Overall, this project demonstrates how data-driven decision-making can support strategic business planning, improve operational efficiency, and strengthen customer relationship management in a highly competitive telecom market.
