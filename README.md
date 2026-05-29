@@ -5,3 +5,4 @@ The analysis revealed that customers with month-to-month contracts, shorter serv
 From a business standpoint, the project provides actionable insights that can help telecom companies improve customer retention, reduce revenue loss, and increase customer lifetime value. Recommended strategies include promoting long-term contracts, enhancing onboarding experiences for new customers, improving service quality, introducing loyalty programs, and encouraging automated payment systems.
 
 Overall, this project demonstrates how data-driven decision-making can support strategic business planning, improve operational efficiency, and strengthen customer relationship management in a highly competitive telecom market.
+<img width="1813" height="619" alt="image" src="https://github.com/user-attachments/assets/31be2257-8a62-47eb-be44-4173c2c589fc" />
